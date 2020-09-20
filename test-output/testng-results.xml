@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75711" started-at="2020-09-20T17:13:48Z" finished-at="2020-09-20T17:15:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75711" started-at="2020-09-20T17:13:48Z" finished-at="2020-09-20T17:15:04Z">
+      <class name="com.GTPLBank.qa.testcases.LoginGTPLTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="13628" started-at="2020-09-20T22:43:48Z" finished-at="2020-09-20T22:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logiLogoTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="logiLogoTest" duration-ms="135" started-at="2020-09-20T22:44:02Z" finished-at="2020-09-20T22:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logiLogoTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="14733" started-at="2020-09-20T22:44:02Z" finished-at="2020-09-20T22:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="loginPageTitleTest" duration-ms="14" started-at="2020-09-20T22:44:17Z" finished-at="2020-09-20T22:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="24698" started-at="2020-09-20T22:44:17Z" finished-at="2020-09-20T22:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@3884b2]" name="loginTest" duration-ms="22338" started-at="2020-09-20T22:44:42Z" finished-at="2020-09-20T22:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.GTPLBank.qa.testcases.LoginGTPLTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
