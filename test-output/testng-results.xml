@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="GTPLBankAutomation" duration-ms="32726" started-at="2020-09-20T18:31:05Z" finished-at="2020-09-20T18:31:38Z">
+  <suite name="GTPLBankAutomation" duration-ms="32068" started-at="2020-09-21T05:35:22Z" finished-at="2020-09-21T05:35:54Z">
     <groups>
     </groups>
-    <test name="GTPL_Bank_Test_Cases" duration-ms="32726" started-at="2020-09-20T18:31:05Z" finished-at="2020-09-20T18:31:38Z">
+    <test name="GTPL_Bank_Test_Cases" duration-ms="32068" started-at="2020-09-21T05:35:22Z" finished-at="2020-09-21T05:35:54Z">
       <class name="com.GTPLBank.qa.testcases.LoginGTPLTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="9446" started-at="2020-09-21T00:01:05Z" finished-at="2020-09-21T00:01:15Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="9083" started-at="2020-09-21T11:05:22Z" finished-at="2020-09-21T11:05:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="logiLogoTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="logiLogoTest" duration-ms="55" started-at="2020-09-21T00:01:15Z" finished-at="2020-09-21T00:01:15Z">
+        <test-method status="PASS" signature="logiLogoTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="logiLogoTest" duration-ms="57" started-at="2020-09-21T11:05:31Z" finished-at="2020-09-21T11:05:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logiLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="988" started-at="2020-09-21T00:01:15Z" finished-at="2020-09-21T00:01:16Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="902" started-at="2020-09-21T11:05:31Z" finished-at="2020-09-21T11:05:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="7846" started-at="2020-09-21T00:01:16Z" finished-at="2020-09-21T00:01:23Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="9045" started-at="2020-09-21T11:05:32Z" finished-at="2020-09-21T11:05:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginPageTitleTest" duration-ms="11" started-at="2020-09-21T00:01:23Z" finished-at="2020-09-21T00:01:23Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginPageTitleTest" duration-ms="17" started-at="2020-09-21T11:05:41Z" finished-at="2020-09-21T11:05:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="957" started-at="2020-09-21T00:01:23Z" finished-at="2020-09-21T00:01:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="903" started-at="2020-09-21T11:05:41Z" finished-at="2020-09-21T11:05:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="7906" started-at="2020-09-21T00:01:24Z" finished-at="2020-09-21T00:01:32Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="8099" started-at="2020-09-21T11:05:42Z" finished-at="2020-09-21T11:05:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginTest" duration-ms="4484" started-at="2020-09-21T00:01:32Z" finished-at="2020-09-21T00:01:37Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginTest" duration-ms="2910" started-at="2020-09-21T11:05:50Z" finished-at="2020-09-21T11:05:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="973" started-at="2020-09-21T00:01:37Z" finished-at="2020-09-21T00:01:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="995" started-at="2020-09-21T11:05:53Z" finished-at="2020-09-21T11:05:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

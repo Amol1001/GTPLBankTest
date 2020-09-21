@@ -36,8 +36,9 @@ public class LoginGTPLTest extends TestBase {
 	}
 	@Test
 	public void loginTest(){
-		homePage = loginPage.validateLoginPage(prop.getProperty("username"),prop.getProperty("password"));
+		homePage = loginPage.validateLoginPage(prop.getProperty("username"),prop.getProperty("password"),prop.getProperty("reset"));
 	}
+	
 	@AfterMethod
 	public void tearDown() {
 

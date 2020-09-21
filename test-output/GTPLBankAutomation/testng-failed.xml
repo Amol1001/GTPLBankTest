@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [GTPLBankAutomation]">
+  <test name="GTPL_Bank_Test_Cases(failed)">
+    <classes>
+      <class name="com.GTPLBank.qa.testcases.LoginGTPLTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="validateLandingPage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.GTPLBank.qa.testcases.LoginGTPLTest -->
+    </classes>
+  </test> <!-- GTPL_Bank_Test_Cases(failed) -->
+</suite> <!-- Failed suite [GTPLBankAutomation] -->
