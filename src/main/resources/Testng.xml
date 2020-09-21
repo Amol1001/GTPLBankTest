@@ -3,7 +3,8 @@
 <suite name="GTPLBankAutomation" parallel="false">
 	<test name="GTPL_Bank_Test_Cases">
 		<classes>
-			<class name="com.GTPLBank.qa.testcases.LoginGTPLTest"></class>
+<!-- 			<class name="com.GTPLBank.qa.testcases.LoginGTPLTest"></class> -->
+			<class name="com.GTPLBank.qa.testcases.HomePageGTPLTest"></class>
 		</classes>
 	</test>
 </suite>

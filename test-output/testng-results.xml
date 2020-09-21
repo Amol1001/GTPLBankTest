@@ -1,49 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="GTPLBankAutomation" duration-ms="32068" started-at="2020-09-21T05:35:22Z" finished-at="2020-09-21T05:35:54Z">
+  <suite name="GTPLBankAutomation" duration-ms="166089" started-at="2020-09-21T07:46:39Z" finished-at="2020-09-21T07:49:25Z">
     <groups>
     </groups>
-    <test name="GTPL_Bank_Test_Cases" duration-ms="32068" started-at="2020-09-21T05:35:22Z" finished-at="2020-09-21T05:35:54Z">
-      <class name="com.GTPLBank.qa.testcases.LoginGTPLTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="9083" started-at="2020-09-21T11:05:22Z" finished-at="2020-09-21T11:05:31Z">
+    <test name="GTPL_Bank_Test_Cases" duration-ms="166089" started-at="2020-09-21T07:46:39Z" finished-at="2020-09-21T07:49:25Z">
+      <class name="com.GTPLBank.qa.testcases.HomePageGTPLTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="12928" started-at="2020-09-21T13:16:39Z" finished-at="2020-09-21T13:16:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="logiLogoTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="logiLogoTest" duration-ms="57" started-at="2020-09-21T11:05:31Z" finished-at="2020-09-21T11:05:31Z">
+        <test-method status="PASS" signature="PageloTest()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="PageloTest" duration-ms="73" started-at="2020-09-21T13:16:52Z" finished-at="2020-09-21T13:16:52Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logiLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="902" started-at="2020-09-21T11:05:31Z" finished-at="2020-09-21T11:05:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="9045" started-at="2020-09-21T11:05:32Z" finished-at="2020-09-21T11:05:41Z">
+        </test-method> <!-- PageloTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="49366" started-at="2020-09-21T13:16:52Z" finished-at="2020-09-21T13:17:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginPageTitleTest" duration-ms="17" started-at="2020-09-21T11:05:41Z" finished-at="2020-09-21T11:05:41Z">
+        <test-method status="PASS" signature="UserRoleTest()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="UserRoleTest" duration-ms="350" started-at="2020-09-21T13:17:42Z" finished-at="2020-09-21T13:17:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="903" started-at="2020-09-21T11:05:41Z" finished-at="2020-09-21T11:05:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="setup" is-config="true" duration-ms="8099" started-at="2020-09-21T11:05:42Z" finished-at="2020-09-21T11:05:50Z">
+        </test-method> <!-- UserRoleTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="39690" started-at="2020-09-21T13:17:42Z" finished-at="2020-09-21T13:18:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="loginTest" duration-ms="2910" started-at="2020-09-21T11:05:50Z" finished-at="2020-09-21T11:05:53Z">
+        <test-method status="PASS" signature="newCustmLinkTest()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="newCustmLinkTest" duration-ms="32952" started-at="2020-09-21T13:18:22Z" finished-at="2020-09-21T13:18:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.GTPLBank.qa.testcases.LoginGTPLTest@1275dab]" name="tearDown" is-config="true" duration-ms="995" started-at="2020-09-21T11:05:53Z" finished-at="2020-09-21T11:05:54Z">
+        </test-method> <!-- newCustmLinkTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="setup" is-config="true" duration-ms="30652" started-at="2020-09-21T13:18:55Z" finished-at="2020-09-21T13:19:25Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.GTPLBank.qa.testcases.LoginGTPLTest -->
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pageTiteTest()[pri:0, instance:com.GTPLBank.qa.testcases.HomePageGTPLTest@3884b2]" name="pageTiteTest" duration-ms="9" started-at="2020-09-21T13:19:25Z" finished-at="2020-09-21T13:19:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTiteTest -->
+      </class> <!-- com.GTPLBank.qa.testcases.HomePageGTPLTest -->
     </test> <!-- GTPL_Bank_Test_Cases -->
   </suite> <!-- GTPLBankAutomation -->
 </testng-results>
